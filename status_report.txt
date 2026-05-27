@@ -1,3 +1,6 @@
 Project Status: Active
 Pending Tasks: 3
-Completed Tasks: 2
+Completed Tasks: 2Current Sprint: Git Practice Sprint
+Progress Percentage: 70%
+Current Sprint: Git Practice Sprint
+Progress Percentage: 70%
